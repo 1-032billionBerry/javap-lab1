@@ -24,7 +24,7 @@
 
 1. **Клонуйте репозиторій собі на комп'ютер**:
     ```bash
-    git clone 
+    git clone https://github.com/1-032billionBerry/javap-lab1.git
     ```
 
 2. **Запуск проекту**:
